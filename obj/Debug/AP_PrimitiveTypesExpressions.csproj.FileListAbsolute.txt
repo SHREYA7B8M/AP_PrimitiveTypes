@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_PrimitiveTypesExpressions\AP_PrimitiveTypesExpressions\bin\Debug\AP_PrimitiveTypesExpressions.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_PrimitiveTypesExpressions\AP_PrimitiveTypesExpressions\bin\Debug\AP_PrimitiveTypesExpressions.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_PrimitiveTypesExpressions\AP_PrimitiveTypesExpressions\bin\Debug\AP_PrimitiveTypesExpressions.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_PrimitiveTypesExpressions\AP_PrimitiveTypesExpressions\obj\Debug\AP_PrimitiveTypesExpressions.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_PrimitiveTypesExpressions\AP_PrimitiveTypesExpressions\obj\Debug\AP_PrimitiveTypesExpressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_PrimitiveTypesExpressions\AP_PrimitiveTypesExpressions\obj\Debug\AP_PrimitiveTypesExpressions.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_PrimitiveTypesExpressions\AP_PrimitiveTypesExpressions\obj\Debug\AP_PrimitiveTypesExpressions.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_PrimitiveTypesExpressions\AP_PrimitiveTypesExpressions\obj\Debug\AP_PrimitiveTypesExpressions.pdb
